@@ -1,4 +1,4 @@
-# [11] AtCoder ABC Contest #148 C
+# AtCoder ABC Contest #148 C
 # 最小公倍数を求める。
 
 """
